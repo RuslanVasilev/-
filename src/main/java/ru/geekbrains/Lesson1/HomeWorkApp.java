@@ -24,7 +24,7 @@ public class HomeWorkApp {
         if ( sum >= 0) {
         System.out.println("Summa pologitelnaja");
         }
-        if (sum < 0) {
+        else if (sum < 0) {
             System.out.println("Summa otricatelnaja");
         }
       }

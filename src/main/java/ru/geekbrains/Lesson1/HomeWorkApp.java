@@ -22,23 +22,23 @@ public class HomeWorkApp {
         int b = 15;
         int sum = a + b;
         if ( sum >= 0) {
-        System.out.println("Сумма положительная");
+        System.out.println("Summa pologitelnaja");
         }
         if (sum < 0) {
-            System.out.println("Сумма отрицательная");
+            System.out.println("Summa otricatelnaja");
         }
       }
       // Метод "Написать цвет".
       public static void printColor() {
         int value = 5;
                 if (value <= 0) {
-                System.out.println("Красный");
+                System.out.println("Krasnii");
                 }
                 if (value > 0 && value <= 100) {
-                    System.out.println("Желтый");
+                    System.out.println("Goltii");
                 }
                 if (value > 100) {
-                    System.out.println("Зеленый");
+                    System.out.println("Zelonii");
                 }
       }
       // Метод "Сравнить числа".
